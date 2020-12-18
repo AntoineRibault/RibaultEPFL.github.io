@@ -35,7 +35,7 @@ Given this definition, we can now take a look at search rates for every race rel
 
 {% include Mean_search_rates_2013-2015.html %}
 
- Democrats tend to search more than republicans. Of course at this point it is just a joke. It would be misleading to assume that racial disparities changes from one state to the other since the total number of search rates varies too. So instead of comparing raw search rates, let us compare the relative difference between minority (black or hispanic) search rates and white search rates. I hereby invite to contemplate the next plot.
+ Democrats tend to search more than republicans, but we cannot interpret much. So instead of comparing raw search rates, let us compare the relative difference between minority (black or hispanic) search rates and white search rates. We hereby invite you to contemplate the next plot.
 
 {% include Biases_2013-2015_slider.html %}
 
@@ -78,7 +78,7 @@ As can be seen on the figure, it seems that for both political partisanship, the
 
 # Chapter 5 - Conclusion
 
-To conclude, we showed in a first part that black drivers were more searched in democratic states than in republican states. However, this bias seem to decrease over time in the 2012-2016 time window. So to have an idea of the actual 2020 situation, we should do the analysis in a couple of years when the datas will be available to see if a racial bias is still present, and if still decreases!
+To conclude, we showed in a first part that black drivers were more searched in democratic states than in republican states. However, this bias seems to decrease over time in the 2012-2016 time window. So to have an idea of the actual 2020 situation, we should do the analysis in a couple of years when the datas will be available to see if a racial bias is still present, and if so, is it still decreasing?
 
 See you in a couple of years for the end of the story!
 
