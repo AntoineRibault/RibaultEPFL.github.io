@@ -22,7 +22,7 @@ In order to conduct such an exploration, we decided to focus on states whose pol
 
 For this part of the study, we will focus on the 2013-2015 period.
 
-To get a first idea of differences in police stops across states, it could be interesting to look at the stop incidence per 100 inhabitants. To do so, we excluded the Washington state to focus on the 6 other states for a first analysis. Washington will be used later on (we reserved a final "plot" twist for you dear viewer :)). The incidence can be observed on the following map. Don't hesitate to play with it (you can choose which ethnicity to show using the slider)!
+To get a first idea of differences in police stops across states, it could be interesting to look at the stop incidence per 100 inhabitants. To do so, we excluded the Washington state to keep as much democratic states as republican states for a first analysis. Washington will be used later on (we reserved a final "plot" twist for you dear viewer :)). The incidence can be observed on the following map. Don't hesitate to play with it (you can choose which ethnicity to show using the slider)!
 
 {% include incidence.html %}
 
@@ -57,7 +57,7 @@ We applied a famous machine learning method, Kmean clustering, on our black/whit
 {% include KMeans.html %}
 
 As can be seen, the computer managed, without any label, to separate with a 75% accuracy counties that come from a republican states, and the one that come from democratic states.
-No more words on that, it was just a bonus... 
+No more words on that, it was just a bonus...
 
 # Chapter 4 - Evolution of search rates over time
 
