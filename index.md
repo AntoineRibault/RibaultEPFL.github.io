@@ -2,7 +2,7 @@
 layout: page
 cover-img: /img/bg.jpg
 title : Fraises TagADA
-subtitle: Assessing Racial Bias Relative to Political Partisanship
+subtitle: Effect of political partisanship on racial bias in police stops
 ---
 
 # Chapter 0 - Introduction
